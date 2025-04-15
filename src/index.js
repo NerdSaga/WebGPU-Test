@@ -1,6 +1,6 @@
 import { cubeData } from "./cube.js"
 import { maths } from "./math.js"
-import { MeshObject } from "./meshObject.js"
+import { MeshObject } from "./MeshObject.js"
 
 const canvas = document.createElement("canvas")
 document.body.appendChild(canvas)
